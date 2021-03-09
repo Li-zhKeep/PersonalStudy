@@ -6,7 +6,7 @@
 
 
 
-<img src="img/505212e0fee5c166efc7a6a02d84dbb.jpg" alt="505212e0fee5c166efc7a6a02d84dbb" style="zoom:33%;" />
+<img src="img/505212e0fee5c166efc7a6a02d84dbb.jpg" alt="505212e0fee5c166efc7a6a02d84dbb" style="zoom:10%;" />
 
 
 
