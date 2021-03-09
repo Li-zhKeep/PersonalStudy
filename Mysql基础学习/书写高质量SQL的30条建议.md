@@ -592,12 +592,3 @@ explain select * from user where userid =10086 or age =18;
 ### 参考与感谢
 - [Mysql优化原则_小表驱动大表IN和EXISTS的合理利用](https://segmentfault.com/a/1190000014509559)
 - [sql语句的优化分析](https://www.cnblogs.com/knowledgesea/p/3686105.html)
-
-### 个人公众号
-
-![](https://user-gold-cdn.xitu.io/2019/7/28/16c381c89b127bbb?w=344&h=344&f=jpeg&s=8943)
-
-- 觉得写得好的小伙伴给个点赞+关注啦，谢谢~
-- 如果有写得不正确的地方，麻烦指出，感激不尽。
-- 同时非常期待小伙伴们能够关注我公众号，后面慢慢推出更好的干货~嘻嘻
-- github地址：https://github.com/whx123/JavaHome
