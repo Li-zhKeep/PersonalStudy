@@ -179,9 +179,7 @@ InnoDB数据页由以下7部分组成，如图所示：
 -  InnoDB的逻辑存储结构学习  https://blog.csdn.net/m0_37752084/article/details/80496490
 -  MySQL索引背后的数据结构及算法原理  http://blog.codinglabs.org/articles/theory-of-mysql-index.html
 
-## 个人公众号
 
-![](https://user-gold-cdn.xitu.io/2019/7/28/16c381c89b127bbb?w=344&h=344&f=jpeg&s=8943)
 
 欢迎大家关注，大家一起学习，一起讨论哈。
 
